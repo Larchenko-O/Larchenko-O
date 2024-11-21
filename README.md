@@ -3,24 +3,15 @@
 ---
 
 ### 👨‍💻 Обо мне:
+Я начинающий специалист в области ручного тестирования, стремящийся развиваться в сфере обеспечения качества программного обеспечения. Увлечен поиском ошибок, изучением различных инструментов и методологий тестирования. Имею базовые знания по работе с тестовой документацией, анализу требований и методам тестирования.
 
+В 2024 я прошел обучение на курсе функционального тестирования Артема Русова.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@*****-blue?style=flat&logo=LinkedIn&logoColor=white)](********) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexey.larchenko.h@gmail.com)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="********" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/AlexeyLarchenko" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexey.larchenko.h@gmail.com)
 
 ---
+
+## Изученные инструменты:
 
 ### 📁 Тестовая документация:
 
@@ -32,8 +23,7 @@
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" 
   height="40"/>&nbsp
-   <img src="https://storage.googleapis.com/multi-static-content/previews/artage-io-thumb-93386e86dccddb11bd587e584077b3d0.png" title="exel" alt="exel" width="40" 
-  height="40"/>&nbsp
+
 </div>
 
 ---
@@ -43,7 +33,7 @@
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://img.stackshare.io/service/3891/-AvocOY1_400x400.jpg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -80,3 +70,14 @@
 
   
 </div>
+
+## 💎 Тестовые артефакты: 💎
+
+[Тестовая документация](https://github.com/Larchenko-O/docs)  
+[Теория тестирования](https://github.com/Larchenko-O/theory)  
+[Техники тест-дизайна](https://github.com/Larchenko-O/design)  
+[Тестирование API](https://github.com/Larchenko-O/api)  
+[Работа с базами данных](https://github.com/Larchenko-O/database)  
+[Работа с git и bash](https://github.com/Larchenko-O/git_bash)    
+[Тестирование веб-приложений](https://github.com/Larchenko-O/web)    
+[Тестирование мобильных приложений](https://github.com/Larchenko-O/mobile)    
