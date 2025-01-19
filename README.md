@@ -8,7 +8,7 @@
 В 2024 я прошел обучение на курсе функционального тестирования Артема Русова.
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexey.larchenko.h@gmail.com)
-
+- 📜 [Мое резюме](https://github.com/Larchenko-O/My-CV/blob/main/CV%20-%20Alexey%20Larchenko.pdf)
 ---
 
 ## Изученные инструменты:
